@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -55,6 +55,9 @@ export default function Home() {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Find in-depth information about Next.js features and API.
           </p>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+            Here&apos;s a new paragraph.
+          </p>
         </a>
 
         <a
@@ -109,5 +112,5 @@ export default function Home() {
         </a>
       </div>
     </main>
-  )
+  );
 }
