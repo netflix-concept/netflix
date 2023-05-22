@@ -1,3 +1,10 @@
+<div align="center">
+<img src="https://github.com/netflix-concept/netflix/assets/107072854/ac54d62f-a9c6-45bf-a368-475f000e28be" height="250px" width="auto" align="center" />
+</div>
+<p>&nbsp;</p>
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
